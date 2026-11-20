@@ -70,5 +70,4 @@ The trade-offs are clear. B needs about 57.7 ms per sentence against 29.6 ms for
 
 ## 6. Limitations and declaration
 - **Sample size:** 200 sentences from one dataset; both models were fine-tuned on SST-2 training data, so the scores are probably higher than on other text.
--
 - **Tools used:** I took reference from the work done during the lab to further my understanding of the topic and an AI assistant was used for basic structure and for helping in writing scripts. I can explain all codes and I understand every line.
